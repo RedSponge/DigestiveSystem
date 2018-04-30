@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kif_j8">
+    <output-path>$PROJECT_DIR$/out/artifacts/kif_j8</output-path>
+    <root id="archive" name="kif_j8.jar">
+      <element id="module-output" name="Kif" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/RedUtilsRemastered-1.07v_java8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
